@@ -3,6 +3,7 @@
 suq, the Single-User Queuer
 
 Copyright (c) 2010 Sander Pronk
+Copyright (c) 2017 Marcin J. Skwark (tiny modifications)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

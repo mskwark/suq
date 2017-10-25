@@ -280,7 +280,7 @@ void suq_settings_set_ntask(suq_settings *st, int ntask)
 int suq_settings_get_next_id(suq_settings *st)
 {
     int ret=++(st->next_id);
-    if (ret > 10000)
+    if (ret > 50000)
     {
         ret=st->next_id=0;
     }
